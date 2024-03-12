@@ -5,7 +5,7 @@ In this project, I try to classify good or bad credit risks with models that can
 
 My project following this step
 1. Clean data
-- Identify and handle missing values:  Check for missing values in each column and decide how to handle them
+- Identify and handle missing values:  Check for missing values in each column 
 - Explore the distribution of numerical features and identify outliers
 - recode some value (A1-A33) into in meaning
   
