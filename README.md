@@ -1,7 +1,7 @@
-# Credit Risk German Classification 
-In this dataset, each entry represents a person who takes a credit by a bank with 1000 rows and 20 columns. Each person is classified as good or bad credit risks.
-
-In this project, I try to classify good or bad credit risks with models that can deal with both numerical variables and categorical variables like CatBoost and XGBoost.
+# About this Project
+In this dataset, each entry represents a person who applies for credit from a bank. The data consists of 1,000 rows and 20 columns. Each person is classified as a good or bad credit risk.
+- This project focuses on finding the best alogorithm to predict creditworthiness, optimizing for both accuracy and AUC score.
+- I have tried to get the best results using feature engineering and random search for hyperparameters.
 
 My project following this step
 1. Clean data
